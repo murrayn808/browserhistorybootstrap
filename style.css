@@ -1,35 +1,7 @@
-body {
-  font-family: 'Open Sans', sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: Ivory;
+a.nav-link {
+  color:white;
 }
 
 h1, h2 {
-  font-family: 'Oswald', sans-serif;
-}
-
-img {
-  float: left;
-  margin-right: 10px;
-}
-
-.left,
-.right,
-.center {
-  width: calc((100% - 40px) / 3); /* Distribute the available width evenly among three columns */
-  padding: 1px;
-}
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
-.center {
-  margin: 0 auto; /* Center the center column horizontally */
-  float: none; /* Clear the float to prevent unwanted behavior */
+  color: darkblue;
 }
